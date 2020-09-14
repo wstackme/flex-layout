@@ -9,3 +9,5 @@ FLEX 레이아웃은 SNAX 스토어에서 판매되는 Slow, Alice, #HASHTAG 등
 
 GPL 3.0 라이센스를 채택했습니다.
 원작자 표기 희망하며, 자유로운 수정, 재배포 환영합니다.
+
+미리보기: https://calvinsnax.com/flex_board/34695
