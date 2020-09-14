@@ -8,7 +8,3 @@ FLEX 레이아웃은 SNAX 스토어에서 판매되는 Slow, Alice, #HASHTAG 등
  
 
 GPL 3.0 라이센스를 채택했습니다.
-
-다운로드는 아래 링크를 이용해주세요.
-
-https://github.com/calvinsnax/flex-layout
