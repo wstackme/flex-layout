@@ -29,8 +29,10 @@ $header-blur: saturate(180%) blur(5px);
   display: flex;
   align-items: center;
   width: 100%;
+  max-width: $header-width;
   height: 100%;
 
+  margin: 0 auto;
   padding-left: 2rem;
   padding-right: 2rem;
 

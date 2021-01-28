@@ -22,6 +22,9 @@
   // 레이아웃 설정을 변수로 전달
   if($layout_info->primary_color)
     $theme->variables['color-primary'] = $layout_info->primary_color;
+
+  if($layout_info->header_container_expand == 'N')
+    $theme->variables['header-width'] = $theme->variables['base-container'];
 }
 
 {@ // 외부 라이브러리 }
