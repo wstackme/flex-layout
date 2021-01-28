@@ -8,7 +8,7 @@
       );
 
       $font = array(
-        'font-family' => "'Arita-dotum-Medium', 'Noto Sans KR', 'Noto Sans Korean', -apple-system, 'SF Pro Display', 'Helvetica Neue',  'Apple SD Gothic Neo', 'Roboto', 'Noto Sans KR', 'Malgun Gothic', sans-serif;"
+        'font-family' => "'Spoqa Han Sans', 'Noto Sans KR', 'Noto Sans Korean', -apple-system, 'SF Pro Display', 'Helvetica Neue',  'Apple SD Gothic Neo', 'Roboto', 'Noto Sans KR', 'Malgun Gothic', sans-serif;"
       );
       
       $breakpoint = array(
