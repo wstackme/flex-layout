@@ -37,7 +37,7 @@ $header-blur: saturate(180%) blur(5px);
   padding-right: 2rem;
 
   @media (max-width: $mobile-w) {
-    padding-left: 1rem;
+    padding-left: 0.5rem;
     padding-right: 0.5rem;
   }
 }
